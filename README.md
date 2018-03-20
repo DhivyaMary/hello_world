@@ -1,3 +1,3 @@
 # hello_world
 Starting github
-Checking braching and commit in guthub
+Checking branching and commit in guthub
